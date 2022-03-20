@@ -1,0 +1,10 @@
+# default
+node_modules/
+package-lock.json
+yarn.lock
+
+# extra
+*.7z
+test/
+testing/
+.vsls.json
